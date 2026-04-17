@@ -1,6 +1,5 @@
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DearDe-er">
+
     <img src="https://komarev.com/ghpvc/?username=DearDe-er&label=Profile%20views&color=00FFFF&style=flat-square" alt="DearDe-er's profile views" />
   </a>
 </p>
