@@ -8,7 +8,7 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl2Nm0xenMzcjkxa2lzY3BqdWhrNnlnNTcwbzIzYWU3MXR0dHpxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I4lXXjxiqEgVi/giphy.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+
 - INTP/ISTP
 
 
