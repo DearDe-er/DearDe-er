@@ -1,4 +1,4 @@
-![crimes](https://img.shields.io/badge/crimes🦇-55,107-800000?style=for-the-badge)
+![crimes](https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge)
 
 
     
