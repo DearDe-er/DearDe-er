@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://kannmorii.atabook.org/" style="color:#800000; text-decoration:none;">
-   ╋━ SIGN 🦇 
+   ╋━ ֆɨɢռ 🦇 
   </a>
 </h1>
 
