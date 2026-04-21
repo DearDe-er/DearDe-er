@@ -12,8 +12,9 @@
 
 
 <div align="left">
-  <a href="https://github.com/RussianRoulett-e" target="_blank">
-    <img src="IMG-20260421-WA0064-removebg-preview.png" width="140"/>
+  <a href="https://github.com/tembluudud" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="IMG-20260421-WA0064-removebg-preview.png" width="119"/><br>
+    <b>Pfp from my king♡</b>
   </a>
 </div>
 
