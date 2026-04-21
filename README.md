@@ -18,7 +18,34 @@
 
 
 
+<table align="center" cellspacing="15">
+  <tr>
+✠
+    <td align="center">
+      <a href="https://x.com/R1dsan820m0">
+        <img src="Tak_berjudul636_20260420211902.png" width="800" style="border-radius: 10px;"><br>
+        <sub>Baobei</sub>
+      </a>
+    </td>
 
+  <br>
+  
+  ✠  <td align="center">
+      <a href="https://github.com/tembluudud">
+        <img src="Tak_berjudul635_20260420211455.png" width="800" style="border-radius: 10px;"><br>
+        <sub>My king</sub>
+      </a>
+    </td>
+
+  ✠  <td align="center">
+      <a href="https://github.com/VersaillesBrainrot">
+        <img src="IMG-20260420-WA0046.jpg" width="800" style="border-radius: 10px;"><br>
+        <sub>twin</sub>
+      </a>
+    </td>
+
+  </tr>
+</table>
     
 
 
