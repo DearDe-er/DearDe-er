@@ -11,12 +11,24 @@
 </p>
 
 
-<p align="center">
+<div align="left">
+  <a href="https://github.com/RussianRoulett-e" target="_blank">
+    <img src="IMG-20260421-WA0064-removebg-preview.png" width="140"/>
+  </a>
+</div>
+
+
+
+
+
+<p align="right">
   <a href="https://github.com/RussianRoulett-e">
-    <img src="160ee425111a9a289bcb4b7bb9c0e1f7.gif" width="299"/>
+    <img src="160ee425111a9a289bcb4b7bb9c0e1f7.gif" width="150"/>
   </a>
 </p>
 
+
+    
 
 
 
