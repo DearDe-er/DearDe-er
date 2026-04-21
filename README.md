@@ -1,13 +1,9 @@
-![crimes](https://img.shields.io/badge/crimes🦇-33,550-800000?style=for-the-badge)
+<div align="center">
+  <img src="https://img.shields.io/badge/🐱๋࣭ ⭑⚝-69,696-9ACD32?style=for-the-plastic"/>
+</div>
 
 
 
-
-<h1 align="center">
-  <a href="https://kannmorii.atabook.org/" style="color:#800000; text-decoration:none;">
-   ╋━ ֆɨɢռ 🦇 
-  </a>
-</h1>
 
 
 
@@ -18,21 +14,13 @@
 </div>
 
 
-ɪ'ᴍ ᴀ ᴅᴏɢ? ʏᴏᴜ'ʀᴇ ᴅᴏɢ ꜰᴏᴏᴅ
+
 
 
 
 
     
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZvd3JzanQ4YzN6emZwNHQzdHlsYzVzNDV2dGk0ZzhhMHBieWlrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yrrxsyvqwsuzm8ERYl/giphy.gif" alt="Bottom Line" width="300%" />
-</div>
-
-
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
-
-- INFP/ISTP
 
 
 
