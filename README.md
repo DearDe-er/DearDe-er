@@ -1,16 +1,5 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/🐱๋࣭ ⭑⚝-69,696-9ACD32?style=for-the-plastic"/>
-</div>
-
-
-
-
-
-
-
-
-<div align="center">
-  <img src="4fea1cb6-8b68-4df9-9658-2001005da922.png" width="140" style="margin-top:-140px;"/>
+  <img src="https://img.shields.io/badge/🐱๋࣭ ⭑⚝-69,69K-9ACD32?style=for-the-plastic"/>
 </div>
 
 
@@ -18,6 +7,13 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pmawiglpusym64tlgx4lxfbh2a&cover_image=true&theme=novatorem&show_offline=false&background_color=8d8f54&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=true">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/RussianRoulett-e">
+    <img src="160ee425111a9a289bcb4b7bb9c0e1f7.gif" width="299"/>
   </a>
 </p>
 
