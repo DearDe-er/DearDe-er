@@ -1,6 +1,12 @@
+
 <div align="center">
   <img src="https://img.shields.io/badge/🐱๋࣭ ⭑⚝-69,69K-9ACD32?style=for-the-plastic"/>
 </div>
+
+<div align="right">
+  <img src="707c21db7365fce68ef9e059f5824626.gif" width="108"/>
+</div>
+
 
 
 
@@ -11,12 +17,19 @@
 </p>
 
 
-<div align="left">
-  <a href="https://github.com/tembluudud" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="IMG-20260421-WA0064-removebg-preview.png" width="119"/><br>
-    <b>Pfp from my king♡</b>
-  </a>
-</div>
+
+  <tr>
+    <td>
+      <img src="IMG-20260421-WA0064-removebg-preview.png" width="200"/>
+    </td>
+    <td>
+      <sub>(=ↀωↀ=)</sub>
+      <br>
+      <a href="https://github.com/tembluudud"> Pfp from my king♡</a>
+    </td>
+  </tr>
+  <br><br>
+
 
 
 
@@ -65,7 +78,11 @@
 
 
 
+<img src="707c21db7365fce68ef9e059f5824626.gif" width="108" align="left"/>
 
+<div align="right">
+  <img src="707c21db7365fce68ef9e059f5824626.gif" width="108"/>
+</div>
 
 
 
