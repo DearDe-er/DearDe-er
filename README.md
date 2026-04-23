@@ -2,9 +2,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/🐱๋࣭ ⭑⚝-69,69K-9ACD32?style=for-the-plastic"/>
 </div>
-
+<br><br>
 <div align="right">
-  <img src="707c21db7365fce68ef9e059f5824626.gif" width="108"/>
+  <img src="707c21db7365fce68ef9e059f5824626.gif" width="99"/>
 </div>
 
 
