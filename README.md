@@ -52,7 +52,7 @@
   <tr>
 ✠
     <td align="center">
-      <a href="https://x.com/R1dsan820m0">
+      <a href="https://github.com/ritckha">
         <img src="Tak_berjudul636_20260420211902.png" width="800" style="border-radius: 10px;"><br>
         <sub>Baobei</sub>
       </a>
