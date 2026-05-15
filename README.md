@@ -23,13 +23,11 @@
       <img src="IMG-20260421-WA0064-removebg-preview.png" width="200"/>
     </td>
     <td>
-      <sub><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=CHARLESWORTH&size=29&pause=1000&color=9B9C76&center=true&width=430&lines=%D0%BC%D1%94%CF%83%CF%89+!+(%CB%B5%E2%97%9D+%E2%A9%8A++%E2%97%9C%CB%B5%E3%83%9E" alt="Typing SVG" /></a></sub>
-      <br>
-      <a href="https://github.com/tembluudud"> Pfp from my king♡</a>
-    </td>
-  </tr>
-  <br><br>
-
+      <sub><a align="center">
+  <a href="https://akunin.atabook.org">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9B9C76&center=true&vCenter=true&width=435&lines=CLICK+MEow+!!" /></a></sub>
+    <br><br>
+      
 
 
 
