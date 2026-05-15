@@ -18,12 +18,10 @@
 
 
 
-  <tr>
-    <td>
-      <img src="IMG-20260421-WA0064-removebg-preview.png" width="200"/>
-    </td>
-    <td>
-      <sub><a align="center">
+</tr>
+  <a href="https://github.com/tembluudud">
+    <img src="IMG-20260421-WA0064-removebg-preview.png" width="200">
+  </a>
   <a href="https://akunin.atabook.org">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9B9C76&center=true&vCenter=true&width=435&lines=CLICK+MEow+!!" /></a></sub>
     <br><br>
@@ -48,7 +46,6 @@
 
 <table align="center" cellspacing="15">
   <tr>
-✠
     <td align="center">
       <a href="https://github.com/ritckha">
         <img src="Tak_berjudul636_20260420211902.png" width="800" style="border-radius: 10px;"><br>
@@ -58,14 +55,14 @@
 
   <br>
   
-  ✠  <td align="center">
+  <td align="center">
       <a href="https://github.com/tembluudud">
         <img src="Tak_berjudul635_20260420211455.png" width="800" style="border-radius: 10px;"><br>
         <sub>My king</sub>
       </a>
     </td>
 
-  ✠  <td align="center">
+  <td align="center">
       <a href="https://github.com/VersaillesBrainrot">
         <img src="IMG-20260420-WA0046.jpg" width="800" style="border-radius: 10px;"><br>
         <sub>twin</sub>
