@@ -74,11 +74,11 @@
     
 
 
-
-<img src="707c21db7365fce68ef9e059f5824626.gif" width="108" align="left"/>
+<br><br>
+<img src="707c21db7365fce68ef9e059f5824626.gif" width="100" align="left"/>
 
 <div align="right">
-  <img src="707c21db7365fce68ef9e059f5824626.gif" width="108"/>
+  <img src="707c21db7365fce68ef9e059f5824626.gif" width="100"/>
 </div>
 
 
